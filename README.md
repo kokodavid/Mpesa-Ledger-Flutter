@@ -6,7 +6,7 @@ This is an MPESA Ledger project that receives and listens to SMS from MPESA to c
 
 Set Up|
 ------------ |
-<img src="https://github.com/jama5262/Mpesa-Ledger/blob/master/gif/image1.gif" alt="alt text" height="500px"> | 
+<img src="https://github.com/jama5262/Mpesa-Ledger-Flutter/blob/master/gif/image1.gif" alt="alt text" height="500px"> | 
 
 ## Limitations
 As of now the project only supports Android phones
@@ -34,7 +34,7 @@ Below is the home screen, a selected transaction for further viewing and a searc
 
 Home Page | Transaction Page | Search Page
 ------------ | ------------- | -------------
-<img src="https://github.com/jama5262/Mpesa-Ledger/blob/master/gif/image2.gif" alt="alt text" height="500px"> | <img src="https://github.com/jama5262/Mpesa-Ledger/blob/master/gif/image3.gif" alt="alt text" height="500px"> | <img src="https://github.com/jama5262/Mpesa-Ledger/blob/master/gif/image4.gif" height="500px">
+<img src="https://github.com/jama5262/Mpesa-Ledger-Flutter/blob/master/gif/image2.gif" alt="alt text" height="500px"> | <img src="https://github.com/jama5262/Mpesa-Ledger-Flutter/blob/master/gif/image3.gif" alt="alt text" height="500px"> | <img src="https://github.com/jama5262/Mpesa-Ledger-Flutter/blob/master/gif/image4.gif" height="500px">
 
 ### Category Page
 
@@ -44,7 +44,7 @@ Example below shows creating a category by the keywords (Jama and Diana) which l
 
 Category Page | Create Category
 ------------ | -------------
-<img src="https://github.com/jama5262/Mpesa-Ledger/blob/master/gif/image5.gif" alt="alt text" height="500px"> | <img src="https://github.com/jama5262/Mpesa-Ledger/blob/master/gif/image6.gif" alt="alt text" height="500px">
+<img src="https://github.com/jama5262/Mpesa-Ledger-Flutter/blob/master/gif/image5.gif" alt="alt text" height="500px"> | <img src="https://github.com/jama5262/Mpesa-Ledger-Flutter/blob/master/gif/image6.gif" alt="alt text" height="500px">
 
 ### Summary Page
 
@@ -52,14 +52,14 @@ The summary page shows the overall total of your transactions and a year monthly
 
 Summary Page|
 ------------ |
-<img src="https://github.com/jama5262/Mpesa-Ledger/blob/master/gif/image7.gif" alt="alt text" height="500px"> | 
+<img src="https://github.com/jama5262/Mpesa-Ledger-Flutter/blob/master/gif/image7.gif" alt="alt text" height="500px"> | 
 ### Calculator
 
 You can use the calculator page to calculate the transaction charges
 
 Calculator Page|
 ------------ |
-<img src="https://github.com/jama5262/Mpesa-Ledger/blob/master/gif/image8.gif" alt="alt text" height="500px"> | 
+<img src="https://github.com/jama5262/Mpesa-Ledger-Flutter/blob/master/gif/image8.gif" alt="alt text" height="500px"> | 
 
 ### Setting Page
 
@@ -67,7 +67,7 @@ The setting page allows you to change your theme and also delete all of your Mpe
 
 Change Theme | Delete All Data
 ------------ | -------------
-<img src="https://github.com/jama5262/Mpesa-Ledger/blob/master/gif/image9.gif" alt="alt text" height="500px"> | <img src="https://github.com/jama5262/Mpesa-Ledger/blob/master/gif/image10.gif" alt="alt text" height="500px">
+<img src="https://github.com/jama5262/Mpesa-Ledger-Flutter/blob/master/gif/image9.gif" alt="alt text" height="500px"> | <img src="https://github.com/jama5262/Mpesa-Ledger-Flutter/blob/master/gif/image10.gif" alt="alt text" height="500px">
 
 ## Contributing
 
